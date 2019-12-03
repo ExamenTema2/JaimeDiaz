@@ -1,3 +1,5 @@
+//Descripcion: vehiculo perteneciente a una flota de vehiculos
+//Autor: Jaime Diaz Gomez
 public class Vehiculo {
 	private String matricula;
 	private String fabricante;
