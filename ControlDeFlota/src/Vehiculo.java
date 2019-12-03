@@ -1,3 +1,5 @@
+
+//Autor: Jaime Diaz Gomez
 public class Vehiculo {
 	private String matricula;
 	private String fabricante;
